@@ -1,0 +1,7 @@
+<?php
+
+require 'vendor/autoload.php';
+
+use RebaseData\Converter\Converter;
+
+$converter = new Converter();
